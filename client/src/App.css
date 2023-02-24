@@ -42,6 +42,15 @@
   color: #61dafb;
 }
 
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
